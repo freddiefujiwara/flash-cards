@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/freddiefujiwara/flash-cards",
   "devDependencies": {
-    "component": "^0.19.7"
+    "component": "^0.19.7",
+    "gulp": "^3.5.5",
+    "gulp-component": "^0.1.5"
   }
 }
